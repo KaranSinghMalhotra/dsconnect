@@ -1,0 +1,11 @@
+MANIFEST.in
+README.rst
+setup.py
+dsconnect/__init__.py
+dsconnect/dsconnect.py
+dsconnect.egg-info/PKG-INFO
+dsconnect.egg-info/SOURCES.txt
+dsconnect.egg-info/dependency_links.txt
+dsconnect.egg-info/not-zip-safe
+dsconnect.egg-info/requires.txt
+dsconnect.egg-info/top_level.txt

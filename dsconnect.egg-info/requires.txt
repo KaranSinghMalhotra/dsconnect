@@ -1,0 +1,9 @@
+pandas
+psycopg2
+pyodbc
+pygsheets
+pysftp
+boto3
+mysql-connector-python
+cx_Oracle
+ibm_db
